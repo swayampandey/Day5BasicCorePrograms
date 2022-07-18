@@ -1,4 +1,4 @@
-package com.bridgelabz.functionalprograms;
+package com.bridgelabz.basicCorePrograms;
 import java.util.Scanner;
 
 public class EvenOdd {
